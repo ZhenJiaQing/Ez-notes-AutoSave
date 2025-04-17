@@ -1,0 +1,36 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Ez Notes Auto Save，Don't worry about losing content when you shut down",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"autoSave" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "自动保存绘图",
+				"type" : "bool",
+				"value" : true
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Technology" ],
+	"title" : "EZ Notes - Auto Save",
+	"type" : "web",
+	"version" : 6,
+	"visibility" : "public",
+	"workshopid" : "2399605361",
+	"workshopurl" : "steam://url/CommunityFilePage/2399605361"
+}
